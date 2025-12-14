@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Nhom11",
+  "author": "Nhom06",
   "editor": "wokwi",
   "parts": [
     { "type": "board-esp32-devkit-c-v4", "id": "esp", "top": -9.6, "left": 523.24, "attrs": {} },
